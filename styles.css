@@ -1,0 +1,57 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(0, 0, 0, 0.815);
+}
+
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    color: brown;
+    border-bottom: solid 1px black;
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    color: rgba(111, 207, 32, 0.678);
+}
+h2{
+    color: rgba(173, 74, 74, 0.61);
+}
+p{
+    color:gray;
+}
+article { 
+    margin:30px 20px; 
+    width:700px 
+}
+.login{
+    color: white;
+    background-color: rgba(223, 1, 1, 0.753);
+    border: solid 1px rgb(255, 255, 255);
+    text-decoration: none;
+    margin-top: auto;
+    margin-bottom: 25px;
+    margin-right: -1120px;
+}
+.cadastro{ 
+    color: white;
+    background-color: rgba(223, 1, 1, 0.753);
+    border: solid 1px rgb(255, 255, 255);
+    text-decoration: none;
+    margin-top: auto;
+    margin-bottom: 25px;
+    margin-right: 5px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.contato{
+    text-align: right;
+    float:right;
+    width:300px;
+}
+a {
+    text-decoration: none;
+}

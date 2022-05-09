@@ -1,0 +1,20 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(0, 0, 0, 0.815);
+}
+main{
+    background-color: rgba(216, 57, 57, 0.514);
+    border-radius: 20px;
+    width: 200px;
+    padding: 5px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+input [type=submit]{
+    background-color: brown;
+}
+input{
+    display: grid;
+}
