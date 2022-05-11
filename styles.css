@@ -6,7 +6,7 @@ html{
 nav{
     font-family: Georgia, 'Times New Roman', Times, serif;
     list-style: none;
-    color: brown;
+    color: rgb(0, 26, 255);
     border-bottom: solid 1px black;
     display: flex;
     justify-content: space-between;
@@ -23,24 +23,6 @@ p{
 article { 
     margin:30px 20px; 
     width:700px 
-}
-.login{
-    color: white;
-    background-color: rgba(223, 1, 1, 0.753);
-    border: solid 1px rgb(255, 255, 255);
-    text-decoration: none;
-    margin-top: auto;
-    margin-bottom: 25px;
-    margin-right: -1000px;
-}
-.cadastro{ 
-    color: white;
-    background-color: rgba(223, 1, 1, 0.753);
-    border: solid 1px rgb(255, 255, 255);
-    text-decoration: none;
-    margin-top: auto;
-    margin-bottom: 25px;
-    margin-right: 5px;
 }
 ul{
     list-style: none;
