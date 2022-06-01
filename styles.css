@@ -66,7 +66,7 @@ ul {
 iframe {
   width: 560px;
   height: 315px;
-  padding-left:20px;
+  padding-left: 20px;
 }
 
 a {
@@ -83,6 +83,7 @@ a {
   display: inline-flex;
   position: absolute;
   left: 40%;
+  top: 90%;
 }
 
 .redirecionamento h1 {
@@ -110,12 +111,13 @@ a {
     width: 320px;
   }
   iframe {
-    width: 350px;
+    width: 330px;
     height: 220px;
-    margin-left:0px;
+    margin-left: 0px;
   }
-  .redirecionamento{
-        left:25%;
-    }
+  .redirecionamento {
+    left: 25%;
+    bottom: -10%;
+  }
 }
 /*# sourceMappingURL=styles.css.map */
